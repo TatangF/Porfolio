@@ -1,0 +1,634 @@
+<!doctype html>
+<!--[if IE 7 ]>    <html lang="en-gb" class="isie ie7 oldie no-js"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en-gb" class="no-js">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!--[if lt IE 9]> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <![endif]-->
+<title>FEROL TATANG FOMEKON</title>
+<meta name="description" content="">
+<meta name="author" content="WebThemez">
+<!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+<!--[if lte IE 8]>
+		<script type="text/javascript" src="http://explorercanvas.googlecode.com/svn/trunk/excanvas.js"></script>
+	<![endif]-->
+<link rel="stylesheet" href="css/bootstrap.min.css" />
+<link rel="stylesheet" type="text/css" href="css/isotope.css" media="screen" />
+<link rel="stylesheet" href="js/fancybox/jquery.fancybox.css" type="text/css" media="screen" />
+<link href="css/animate.css" rel="stylesheet" media="screen">
+<!-- Owl Carousel Assets -->
+<link href="js/owl-carousel/owl.carousel.css" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css" />
+<!-- Font Awesome -->
+<link href="font/css/font-awesome.min.css" rel="stylesheet">
+</head>
+
+<body>
+<header class="header">
+  <div class="container">
+    <nav class="navbar navbar-inverse" role="navigation">
+      <div class="navbar-header">
+        <button type="button" id="nav-toggle" class="navbar-toggle" data-toggle="collapse" data-target="#main-nav"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+        <a href="#home" class="navbar-brand scroll-top logo  animated bounceInLeft"><b><i><img src="images/logo.png" /></i></b></a> </div>
+      <!--/.navbar-header-->
+      <div id="main-nav" class="collapse navbar-collapse">
+        <ul class="nav navbar-nav" id="mainNav">
+          <li class="active" id="firstLink"><a href="#home" class="scroll-link">ACCUIEL</a></li>
+          <li><a href="#Features" class="scroll-link">COMPETNCES</a></li>
+          <li><a href="#aboutUs" class="scroll-link">EXPERIENCE</a></li>
+          <!--<li><a href="#work" class="scroll-link">Evenement</a></li>
+          <!-- <li><a href="#plans" class="scroll-link">Fees</a></li> -->
+          <!-- <li><a href="#team" class="scroll-link">Management</a></li> -->
+          <!-- <li><a href="#contactUs" class="scroll-link"> CONTACT = Contact Us</a></li> -->
+        </ul>
+      </div>
+      <!--/.navbar-collapse--> 
+    </nav>
+    <!--/.navbar--> 
+  </div>
+  <!--/.container--> 
+</header>
+<!--/.header-->
+<div id="#top"></div>
+<section id="home">
+  <div class="banner-container"> 
+  	<div id="carousel" class="carousel slide carousel-fade" data-ride="carousel">
+  <ol class="carousel-indicators">
+    <li data-target="#carousel" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel" data-slide-to="1"></li>
+    <!--<li data-target="#carousel" data-slide-to="2"></li>
+    <!-- <li data-target="#carousel" data-slide-to="3"></li> -->
+  </ol>
+  <!-- Carousel items -->
+  <div class="carousel-inner">
+    <div class="active item"><img src="images/23.png" alt="banner" /></div>
+    <!--<div class="item"><img src="images/work/1659110598385.jfif" alt="banner" /></div>
+    <!--<div class="item"><img src="images/14.jpeg" alt="banner" /></div>
+    <!-- <div class="item"><img src="images/school.jpeg" alt="banner" /></div> -->
+  </div>
+  <!-- Carousel nav -->
+  <a class="carousel-control left" href="#carousel" data-slide="prev">&lsaquo;</a>
+  <a class="carousel-control right" href="#carousel" data-slide="next">&rsaquo;</a>
+</div>
+	
+  </div>  
+  
+  <div class="container hero-text2">        
+		<div class="col-md-9">
+		<h2>Ingénieur de  <a href="https://www.estia.fr/" class=""> ESTIA </a></h1>
+			<p>
+        📊 DATA ANALYST 📈 DATA SCIENTIST 🛠️ DATA ENGINEER 🤖 MLOPS
+
+         Enthousiaste 🚀🔍 Passionné par l'exploration de données, je transforme des informations en insights significatifs.
+🧠 Utilisation de l'analyse statistique et de l'apprentissage automatique pour résoudre des problèmes complexes.
+🔗 Création de pipelines de données robustes pour alimenter les modèles prédictifs.
+🛠️ Expert en Big Data et traitement de données à grande échelle.
+🌐 Défenseur de l'automatisation dans le développement de modèles grâce à MLOps.
+
+💼 Expérience solide en transformant les données en stratégies commerciales.
+📈 Amélioration des performances et de la prise de décision grâce à l'analyse.
+📊 Création de modèles prédictifs pour optimiser les processus.
+🛠️ Construction d'infrastructures de données évolutives.
+🔧 Automatisation des déploiements de modèles pour un impact en temps réel.
+
+🌟 Toujours à la recherche de nouveaux défis liés aux données !
+💬 Parlons de projets data, d'innovations technologiques et de collaborations passionnantes.
+
+      </p>   
+		</div>  
+		<!-- <div class="col-md-3">
+			<a class="btn btn-apply" href="#"><i class="fa fa-play-circle"></i>Apply Now</a>  
+		</div> -->
+  </div>
+</section>
+<section id="Features" class="page-section colord">
+  <div class="container">
+    <div class="row"> 
+      <!-- item -->
+      <div class="col-md-3 text-center"> 
+	  <div class="box-item">
+	  <i class="circle"><img src="images/5.png" alt="" /></i>
+        <h3>Diplôme</h3>
+        <p>Ms BIHAR; Master en Statistiques et Big Data; Licence en Mathématiques.</p>
+      </div>
+	   </div>
+      <!-- end: --> 
+      
+      <!-- item -->
+      <div class="col-md-3 text-center">
+	  <div class="box-item">
+	  <i class="circle"> <img src="images/1.png" alt="" /></i>
+        <h3>Connaissance</h3>
+        <p>Python, R, MySql, Apache Spark, MongoDB, Neo4J, Hive, Hadoop, MLFLOW, Postman,TensorFlow, Docker, Github, Jenkins, Talend, OvalEdge, AWS, Power BI</p>
+      </div>
+	   </div>
+      <!-- end: --> 
+      
+      <!-- item -->
+      <div class="col-md-3 text-center">
+	  <div class="box-item">
+	  <i class="circle"> <img src="images/2.png" alt="" /></i>
+        <h3>Événement</h3>
+        <p>📢 Restez à l'affût des résultats du concours de  <a href="https://zabal-agriculture.opendata-paysbasque.fr/pages/dataviz_challenge/" class="">Dataviz_challenge </a> du Pays Basque sur mon portfolio ! 📊🏆.</p>
+      </div>
+	   </div>
+      <!-- end: --> 
+      
+      <!-- item -->
+      <div class="col-md-3 text-center">
+	  <div class="box-item">
+	  <i class="circle"> <img src="images/3.png" alt="" /></i>
+        <h3>Expérience en Science des Données</h3>
+        <p>
+          
+          En tant que professionnel de la science des données, j'ai travaillé sur divers projets complexes axés sur la transformation de données en informations exploitables. Voici quelques-unes de mes réalisations clés :
+          .</p>
+      </div>
+      <!-- end:-->
+	   </div>
+     <!-- item -->
+     <div class="col-md-3 text-center">
+      <div class="box-item">
+      <i class="circle"> <img src="images/2.png" alt="" /></i>
+          <h3>Création d'un Lac de Données</h3>
+          <p>J'ai développé un lac de données robuste pour centraliser et stocker des volumes massifs de données hétérogènes, assurant ainsi une accessibilité et une évolutivité optimales.</p>
+        </div>
+       </div>
+        <!-- end: -->  
+
+          <!-- item -->
+      <div class="col-md-3 text-center">
+        <div class="box-item">
+        <i class="circle"> <img src="images/2.png" alt="" /></i>
+            <h3>Nettoyage et Pipeline de Transformation de Données</h3>
+            <p>J'ai mis en place des pipelines de nettoyage et de transformation de données automatisés, garantissant la qualité des données et leur préparation pour l'analyse.</p>
+          </div>
+         </div>
+          <!-- end: --> 
+
+          <!-- item -->
+      <div class="col-md-3 text-center">
+        <div class="box-item">
+        <i class="circle"> <img src="images/2.png" alt="" /></i>
+            <h3>Utilisation d'Algorithmes d'Apprentissage</h3>
+            <p><a href="https://scikit-learn.org/stable/" class="">Supervisé </a> : J'ai appliqué des algorithmes d'apprentissage supervisé pour résoudre des problèmes de classification et de régression.</p>
+          </div>
+         </div>
+          <!-- end: --> 
+          <!-- item -->
+      <div class="col-md-3 text-center">
+        <div class="box-item">
+        <i class="circle"> <img src="images/2.png" alt="" /></i>
+            <h3>Utilisation d'Algorithmes d'Apprentissage</h3>
+            <p><a href="https://scikit-learn.org/stable/" class="">Non Supervisé </a> : J'ai utilisé des techniques d'apprentissage non supervisé, notamment K-Means, t-SNE et PCA, pour découvrir des structures cachées dans les données.</p>
+          </div>
+         </div>
+          <!-- end: --> 
+          <!-- item -->
+      <div class="col-md-3 text-center">
+        <div class="box-item">
+        <i class="circle"> <img src="images/2.png" alt="" /></i>
+            <h3>Utilisation d'Algorithmes d'Apprentissage</h3>
+            <p>Évaluation du Modèle : J'ai réalisé des évaluations rigoureuses de modèles prédictifs pour mesurer leur performance et les ajuster en conséquence.</p>
+          </div>
+         </div>
+          <!-- end: --> 
+          <!-- item -->
+      <div class="col-md-3 text-center">
+        <div class="box-item">
+        <i class="circle"> <img src="images/2.png" alt="" /></i>
+            <h3>Mise en Place d'un Environnement de Simulation pour les Tests </h3>
+            <p>J'ai créé des environnements de simulation pour tester la robustesse des modèles dans des conditions variées, garantissant ainsi leur efficacité dans le monde réel</p>
+          </div>
+         </div>
+          <!-- end: --> 
+
+           <!-- item -->
+      <div class="col-md-3 text-center">
+        <div class="box-item">
+        <i class="circle"> <img src="images/2.png" alt="" /></i>
+            <h3>Outils et Technologies Utilisés :</h3>
+            <p>Bases de Données : SQL, MongoDB, Hadoop HDFS, HiveQL.
+              Langages de Programmation : Java, Python.
+              Frameworks et Bibliothèques : Spark, scikit-learn.
+              Algorithmes : K-Means, t-SNE, PCA.
+              Communication de Données : API REST.</p>
+          </div>
+         </div>
+          <!-- end: --> 
+
+    </div>
+  </div>
+  <!--/.container--> 
+</section>
+<section id="aboutUs">
+  <div class="container">
+    <div class="heading text-center"> 
+      <!-- Heading -->
+      <h2>EXPÉRIENCE</h2>
+      <p>En tant qu'ingénieur data, mon parcours professionnel est une aventure passionnante à travers le monde des données. Explorez ma rubrique Expérience pour découvrir mon voyage en tant que constructeur de solutions data et les projets qui ont façonné mon expertise. Par ailleurs, mon approche méthodique et mes compétences techniques me permettent de transformer des données brutes en informations précieuses, contribuant ainsi à la prise de décision éclairée</p>
+    </div>
+    
+    <!-- <div class="row dataTxt">	
+
+      <div class="col-md-4 col-sm-6">
+
+        <h3>Data Scientist</h3>
+        <p>Laboratoire Gustave EIFFEL, Nantes, France
+          Sujet mémoire : Évaluation de l'effet de masque corporel sur la navigation des pietons.
+
+        </p>
+            
+        </div>
+
+      <div class="col-md-4 col-sm-6">
+        
+        <h3>Institut National de la Statistique du Cameroun</h3>
+        <p>Statisticien au DSP (Département des statistiques des entreprises) </p>
+                      <ul class="listArrow">
+          <!-- <li>Collecte des déclarations fiscales et traitement des données à d'autres fins
+          </li>
+          <li>Suivi du projet d'enquête sur les technologies de l'information auprès des entreprises camerounaises
+          </li>
+          <li>Rapport sur l'étude des systèmes de gestion de bases de données : le cas de MySQL
+          </li>
+          <li>Rapport de stage </li>
+          <li>Outils : Python, MySQL</li> -->
+        <!-- </ul>
+        <!-- Accordion starts -->
+        <!-- </div> -->
+
+        <!-- <div class="col-md-4 col-sm-6"> -->
+
+          <!-- <h3>Data analyst</h3>
+          <p>Ecole Nationale Supérieure Polytechnique de Yaoundé
+            Projet : Définition de la distance digitale dans un réseau communautaire du Cameroun
+
+          </p> -->
+                        <!-- <ul  class="list3">
+            <li>Modélisation de la distance digitale -->
+
+              
+            <!-- </li>
+            <li>Définition des paramètres de la modélisation en fonction des cas possibles
+            </li>
+            <li>Optimisation et aide à la décision au gouvernement par rapport aux difficultés des
+              différentes zones régional du Cameroun.
+               </li>
+            <li>Définition et construction d’une distance digitale par rapport à la région du centre
+              du Cameroun à travers la résolution d'un problème d'optimisation.
+              </li>
+              <li>Développement d'une application web -mobile s'arrimant aux objectifs de
+                développement durable (accès à une éducation de qualité, gestion des ventes,
+                livraison, offre des formations dans des domaines techniques.) -->
+                <!-- </li>
+          </ul>
+                        
+          <!-- Accordion starts -->
+          </div> -->
+
+
+						<!-- <div class="col-md-4 col-sm-6"> -->
+<!-- 
+							<h3>Projet TPTBIHAR2023: Intégration de données dans un environnement Big Data</h3>
+							<p>Analyse de la clientèle d'un concessionnaire automobile afin de recommander des modèles de véhicules </p>
+                            <ul class="listArrow">
+								<li>- Création d'un lac de données.
+                </li>
+								<li>- Nettoyage et Pipeline de transformation de données.
+                </li>
+								<li>- Utilisation d'algorithmes d'apprentissage non supervisé et supervisé.
+                </li>
+								<li>- Évaluation du modèle.
+                </li>
+                <li>- Mise en place d'un environnement de simulation pour les tests.</li>
+							</ul>
+              <li>- Outils : SQL , Java, MongoDB, Hadoop HDFS, HiveQL, Spark. KMEANS, TSNE et PCA, API REST</li>
+							<!-- Accordion starts -->
+							<!-- </div> -->
+
+              <!-- <div class="col-md-4 col-sm-6"> --> -->
+
+                <!-- <h3>Atelier : AI4INDUSTRY</h3>
+                <p>CAP 2020  </p>
+                              <ul class="listArrow">
+                  <li>- Mise en place d'un environnement de travail. </li>
+                  <li>- Division des images en trains et en tests.</li>
+                  <li>- Augmentation de la dimensionnalité des variables.</li>
+                  <li>- Utilisation d'algorithmes d'apprentissage non supervisés.</li>
+                  <li>- Rechercher les meilleurs paramètres.</li>
+                  <li>- Rapport écrit.</li>
+                  <li>- Outils : Python, tensorflow, sklearn, matplotlib, pandas, numpy.</li>
+                  
+                </ul>
+                <!-- Accordion starts -->
+                </div> -->
+
+                 <!-- <div class="col-md-4 col-sm-6">
+							
+                  <h3>Projets académiques tutorés par l'entreprise Hupi</h3>
+                  <p>Supervision de lignes de bus </p>
+                                <ul  class="list3">
+                    <li>Prétraitement et visualisation des données.
+                    </li>
+                    <li>Recherche et intégration de nouvelles variables pertinentes pour le modèle. </li>
+                    <li>Pipeline de transformation de données. </li>
+                    <li>Définition et évaluation du modèle.</li> 
+                  </ul>
+                                
+                  <!-- Accordion starts -->
+                  <!-- </div>
+                  <div class="col-md-4 col-sm-6"> -->
+<!-- 							
+                    <h3>Projet ESSFAR</h3>
+                    <p> Extraire et analyser les avis des clients de certains établissements hôteliers</p>
+                                  <ul class="listArrow">
+                      <li>Extraction de données par wep scrapping et stockage de données.</li>
+                      <li>Analyse descriptive et visualisation des données.</li>
+                      <li>Utiliser des modèles d'apprentissage automatique.</li>
+                      <li>Outils : python, pandas, numpy, MongoDB, scikit-learn, matplotlib, searbon</li> -->
+
+                    <!-- </ul>
+                    <!-- Accordion starts -->
+                    </div>
+
+                    <!-- <div class="col-md-4 col-sm-6"> --> -->
+							
+                      <!-- <h3>NLP-Project
+                      </h3>
+                      <p>Prédiction des salaires à partir des descriptions de poste</p>
+                                    <ul  class="list3">
+                        <li>Préparation des données</li> -->
+                        <!-- <li>Vérification de la distribution de la variable cible</li>
+                        <li>Vectorisation TF-IDF</li>
+                        <li>Definition d'un modèle de regression</li>
+                        <li>Evaluation et validation du modèle.</li>
+                        <li>Outils : TfidfVectorizer</li>
+                      
+                      </ul> -->
+                                    
+                      <!-- Accordion starts -->
+                      <!-- </div> --> -->
+
+                    <!-- <div class="col-md-4 col-sm-6"> -->
+							
+                      <!-- <h3>Travail Pratique Transversal MCD Merise, Schéma de 
+                        types SQL3, PLSQL et DBA1 de BDR sous Oracle
+                        18C, 19C ou 21C,
+                        </h3>
+                      <p>Gestion des menus d’un restaurant </p>
+                                    <ul class="listArrow">
+                        <li> Création des types</li>
+                        <li> Création de tables d'objets et d'index à partir de types précédemment créés</li>
+                        <li>Utilisation de la méthode CRUD (Create, Read, Update, Delete)</li>
+                        <li>Implémenter les méthodes des types en PLSQL</li>
+                        <li>Mappage d'objets Oracle complexes avec Java / JDBC</li>
+                        <li>Outils : Oracle, Java, SQL3,  SYBASE/SAP </li>
+   -->
+                      <!-- </ul>
+                      <!-- Accordion starts -->
+                      <!-- </div> --> -->
+<!-- 
+                      <div class="col-md-4 col-sm-6">
+							
+                        <h3>Projet NLP sur l'ensemble de données IMDB Movie Reviews 
+                          </h3>
+                        <p>classification binaire des sentiments </p>
+                                      <ul class="listArrow">
+                          <li>Préparation des données</li>
+                          <li>Nettoyage et tokénisation des documents</li>
+                          <li>Entraînement d'un modèle word2vec</li>
+                          <li>Vectorisation</li>
+                          <li>Definition du modèle de classification</li>
+                          <li>Evaluation du modèle de classification</li>
+                          <li>Validation du modèle de classification</li>
+                          <li>Outils : nltk, BeautifulSoup, Pool, tqdm, cosine_similarity, pickle </li>
+     -->
+                        </ul>
+                        <!-- Accordion starts -->
+                        </div>
+
+                    <!-- <div class="col-md-4 col-sm-6">
+							
+                      <h3>Deep Learning Mini-Project
+                        BIHAR, February 2023</h3>
+                      <p>Réalisation d'une étude comparative sur les performances de divers algorithmes d'apprentissage automatique, notamment la régression logistique, le réseau neuronal de type feed-forward, le réseau neuronal convolutionnel et d'autres approches pour la tâche de classification à l'aide de l'ensemble de données Fashion-MNIST (FMNIST).</p>
+                                    <ul  class="list3">
+                        <li>Formation des algorithmes sur l'ensemble de formation FMNIST et utilisation d'un ensemble de validation pour affiner les hyperparamètres.</li>
+                        <li>Les algorithmes ont été testés sur l'ensemble de tests FMNIST et leurs performances ont été évaluées sur la base de différentes mesures.</li>
+                        <li>Outils : Python, scikit-learn, Keras, TensorFlow.</li>
+                       -->
+                      </ul>
+<!--                                     
+                      <!-- Accordion starts -->
+                      </div>
+
+                      <!-- <div class="col-md-4 col-sm-6">
+							
+                        <h3>Projet ESFAR</h3>
+                        <p>Régression logistique pour la prédiction de défaut de prêt</p>
+                                      <ul class="listArrow">
+                          <li>Utilisation d'algorithmes d'apprentissage supervisé 
+                          </li>
+                          <li>Evaluation du modèle.</li>
+                        </ul> -->
+                        <!-- Accordion starts -->
+                        <!-- </div> --> --> --> -->
+
+                      <!-- <h3>Projet 2</h3>
+                <p>Analyse de la clientèle d'un concessionnaire automobile dans l’objectif de pouvoir recommander desmodèles de véhicules </p>
+                              <ul class="listArrow">
+                  <li>Lorem ipsum dolor consectetursit amet, consectet</li>
+                  <li>Has molestie percipit an. Falli volumus efficiantur</li>
+                  <li>Falli volumus efficiantur sed id, ad vel noster</li>
+                  <li>Lorem ipsum dolor consectetursit amet, consectetur</li>
+                  <li>Ius ut etiam vivendo, graeci iudicabit constitutoa</li>
+                </ul>
+                <!-- Accordion starts -->
+                </div> -->
+						
+					</div>
+  </div>
+</section> 
+<!--<section id="work" class="page-section page">
+  <div class="container text-center">
+    <div class="heading">
+      <h2>Evenement</h2>
+      <p>des images des seminaires et presentaion.</p>
+    </div>
+    <div class="row">
+      <div class="col-md-12">
+        <div id="portfolio">
+          <ul class="filters list-inline">
+            <li> <a class="active" data-filter="*" href="#">TOUT</a> </li>
+            <li> <a data-filter=".photography" href="#">ECOLE</a> </li>
+            <li> <a data-filter=".branding" href="#">PROFFESSIONNEL</a> </li>
+            <!-- <li> <a data-filter=".web" href="#">Science fair</a> </li> -->
+          </ul>
+          <!--<ul class="items list-unstyled clearfix animated fadeInRight showing" data-animation="fadeInRight" style="position: relative; height: 438px;">
+            <li class="item branding" style="position: absolute; left: 0px; top: 0px;"> 
+								 			 
+			  <figure class="effect-bubba">
+						<img src="images/work/1659110598385.jfif" alt="img02"/>
+						<figcaption>
+							<h2>Ferol-Events</h2> 
+							<a href="images/work/1659110598385.jfif" class="fancybox">Jeter un coup d'œil</a> 
+						</figcaption>			
+					</figure> 
+					
+			  </li>
+			  
+			 
+			  
+			  
+            <li class="item photography" style="position: absolute; left: 292px; top: 0px;"> 
+			<figure class="effect-bubba">
+						<img src="images/work/12.jpeg" alt="img02"/>
+						<figcaption>
+							<h2>Ferol-Events</h2> 
+							<a href="images/work/12.jpeg" class="fancybox">Jeter un coup d'œil</a> 
+						</figcaption>			
+					</figure> 
+			  </li>
+            <li class="item branding" style="position: absolute; left: 585px; top: 0px;"> 
+			<figure class="effect-bubba">
+						<img src="images/work/23.jpg" alt="img02"/>
+						<figcaption>
+							<h2>Ferol-Events</h2> 
+							<a href="images/work/23.jpg" class="fancybox">Jeter un coup d'œil</a> 
+						</figcaption>			
+					</figure>  
+			  </li>
+            <!-- <li class="item photography" style="position: absolute; left: 877px; top: 0px;"> 
+			<figure class="effect-bubba">
+						<img src="images/work/16.jpeg" alt="img02"/>
+						<figcaption>
+							<h2>Ferol-Events</h2> 
+							<a href="images/work/16.jpeg" class="fancybox">Jeter un coup d'œil</a> 
+						</figcaption>			
+					</figure>  
+			  </li>
+            <li class="item photography" style="position: absolute; left: 0px; top: 219px;"> 
+			<figure class="effect-bubba">
+						<img src="images/work/17.jpeg" alt="img02"/>
+						<figcaption>
+							<h2>Ferol-Events</h2> 
+							<a href="images/work/17.jpeg" class="fancybox">Jeter un coup d'œil</a> 
+						</figcaption>			
+					</figure> 
+			  </li> -->
+            
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer>
+<div class="container">
+        <div class="row">
+            <div class="col-md-3">
+            	<div class="col">
+                   <h4>Contact</h4>
+                   <ul>
+                        <li>France</li>
+                        <li>Mobilité : OUI</li>
+                        <li>Phone: +33 745 74 26 83</li>
+                        <li>Email: <a href="mailto:info@example.com" title="Email Us">tatang.ferol@yahoo.fr</a></li>
+                        <li>Skype: <a href="skype:my.test?call" title="Skype us">mon compte skype</a></li>
+                    </ul>
+                 </div>
+            </div>
+            
+            <!-- <div class="col-md-3">
+            	<div class="col">
+                    <h4>Mailing list</h4>
+                    <p>Lorem ipsum dolor sit amet, ea eum labitur scsstie percipitoleat.</p>
+                    <form class="form-inline">
+                        <div class="input-group">
+                            <input type="text" class="form-control" placeholder="Your email address...">
+                            <span class="input-group-btn">
+                                <button class="btn" type="button">Go!</button>
+                            </span>
+                        </div>
+                    </form>
+                </div>
+            </div> -->
+            
+            <div class="col-md-3">
+            	<div class="col col-social-icons">
+                    <h4>Reseau sociau</h4>
+                    <!-- <a href="#"><i class="fa fa-facebook"></i></a> -->
+                    <!-- <a href="#"><i class="fa fa-google-plus"></i></a> -->
+                    <!-- <a href="#"><i class="fa fa-youtube-play"></i></a> -->
+                    <!-- <a href="#"><i class="fa fa-flickr"></i></a> -->
+                    <a href="https://www.linkedin.com/in/ferol-tatang-085029201"><i class="fa fa-linkedin"></i></a>
+                    <!-- <a href=""><i class="fa fa-twitter"></i></a> -->
+                    <!-- <a href="#"><i class="fa fa-skype"></i></a> -->
+                    <!-- <a href="#"><i class="fa fa-pinterest"></i></a> -->
+                </div>
+            </div>
+
+             <div class="col-md-3">
+             	<div class="col">
+                    <h4>Compte github</h4>
+                    <p>
+                      Veuillez consulter ici!!.
+                    <br><br>
+                    <a href="https://github.com/TatangF" class="btn">Github</a>
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-md-3">
+              <div class="col">
+                   <h4>Google Drive?</h4>
+                   <p>
+                    Si vous souhaitez recevoir le code pour un projet, veuillez m'envoyer un e-mail.
+                    MERCI BEAUCOUP.!!!!.
+                   <br><br>
+                   <!-- <a href="https://github.com/TatangF" class="btn">Github</a> -->
+                   </p>
+               </div>
+           </div>
+
+
+
+        </div>
+         
+    </div>
+    
+</footer>
+<!--/.page-section-->
+<section class="copyright">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 text-center"> Copyright 2023 Mon site web personnel. | Tout droit reserver ---  <a href="https://porfolio-production-b3e0.up.railway.app/"> CLIQUEZ ICI </a> </div>
+    </div>
+    <!-- / .row --> 
+  </div>
+</section>
+<a href="#top" class="topHome"><i class="fa fa-chevron-up fa-2x"></i></a> 
+
+<!--[if lte IE 8]><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><![endif]--> 
+<script src="js/modernizr-latest.js"></script> 
+<script src="js/jquery-1.8.2.min.js" type="text/javascript"></script> 
+<script src="js/bootstrap.min.js" type="text/javascript"></script> 
+<script src="js/jquery.isotope.min.js" type="text/javascript"></script> 
+<script src="js/fancybox/jquery.fancybox.pack.js" type="text/javascript"></script> 
+<script src="js/jquery.nav.js" type="text/javascript"></script> 
+<script src="js/jquery.fittext.js"></script> 
+<script src="js/waypoints.js"></script> 
+<script src="js/custom.js" type="text/javascript"></script> 
+<script src="js/owl-carousel/owl.carousel.js"></script>
+</body>
+</html>
